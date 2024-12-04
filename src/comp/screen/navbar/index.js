@@ -136,7 +136,7 @@ const NavBarView = (props) => {
 								onClick={toggleColorMode}
 							/>
 						</Tooltip>
-						<a label="الصفحه الراسيه" href="/">
+						<a label="الصفحه الراسيه" href="https://faculty-of-arts-tanta.vercel.app/">
 							<IconButton
 								ms={3}
 								variant="link"
